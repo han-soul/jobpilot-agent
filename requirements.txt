@@ -1,0 +1,6 @@
+deepagents==0.7.32
+langchain-openai==1.7.2
+python-dotenv==1.2.4
+jieba==0.42.1
+scikit-learn==1.9.1
+pydantic==2.14.1

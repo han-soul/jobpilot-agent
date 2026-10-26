@@ -1,0 +1,29 @@
+{
+  "candidate_skills": [
+    {
+      "name": "Python",
+      "source": "用户自述技能",
+      "evidence": "用于 Agent 项目开发"
+    },
+    {
+      "name": "Java",
+      "source": "简历技能栏",
+      "evidence": "技能：Java"
+    },
+    {
+      "name": "Spring",
+      "source": "简历技能栏与项目经历",
+      "evidence": "使用 Spring + Vue 搭建网站"
+    },
+    {
+      "name": "Vue",
+      "source": "简历技能栏与项目经历",
+      "evidence": "完成 15 个功能页面"
+    },
+    {
+      "name": "MySQL",
+      "source": "简历技能栏",
+      "evidence": "技能：MySQL"
+    }
+  ]
+}
